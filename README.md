@@ -1,7 +1,9 @@
-<img src="https://media.giphy.com/media/ebZ3XUsUbWNKFJnRVx/giphy.gif" width=100%>
+
+<img src="https://media.giphy.com/media/ebZ3XUsUbWNKFJnRVx/giphy.gif" width=100% height=100%>
+
 <h3 align="center">A passionate Web Design enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alsiel16&label=Profile%20views&color=0e75b6&style=flat" alt="alsiel16" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alsiel16&label=Profile%20views&color=0e75b6&style=flat" alt="alsiel16" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alsiel16&theme=juicyfresh)](https://github.com/alsiel16/github-profile-trophy)
 
