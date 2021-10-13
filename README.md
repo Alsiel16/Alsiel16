@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Bootstrap, JavaScript and Crypto-Currency**
 
-- 👯 I’m looking to collaborate on **anything related to Web Development**
+- 👯 I’m looking to collaborate on **anything related to Web Design**
 
 - 💬 Ask me about **HTML5, CSS3**
 
