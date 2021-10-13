@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhaskar</h1>
+<img src="https://media.giphy.com/media/ebZ3XUsUbWNKFJnRVx/giphy.gif" width=100%>
 <h3 align="center">A passionate Web Design enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alsiel16&label=Profile%20views&color=0e75b6&style=flat" alt="alsiel16" /> </p>
