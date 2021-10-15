@@ -1,8 +1,8 @@
 
 <img src="https://media.giphy.com/media/ebZ3XUsUbWNKFJnRVx/giphy.gif" width=100% height=100%>
-
-![19362653](https://user-images.githubusercontent.com/89699150/137480027-b62de07e-1f7c-42c5-898b-7e18a51d433a.jpg)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/89699150/137480027-b62de07e-1f7c-42c5-898b-7e18a51d433a.jpg" width=50% height=50% >
+</p>
 <h3 align="center">A passionate Web Design enthusiast from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alsiel16&label=Profile%20views&color=0e75b6&style=flat" alt="alsiel16" /> </p>
